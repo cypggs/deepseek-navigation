@@ -39,6 +39,13 @@ const sites = [
     icon: <Grid className="w-5 h-5" />,
     category: "Development",
   },
+    {
+    name: "问小白",
+    url: "https://www.wenxiaobai.com/chat/200006",
+    description: "问小白满血版R1",
+    icon: <Grid className="w-5 h-5" />,
+    category: "Development",
+  },
 ]
 
 export default function Home() {
